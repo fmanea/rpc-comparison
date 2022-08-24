@@ -13,6 +13,7 @@ in terms of speed. Working on a fix!
 - [x] Create an Infura account
 - [x] Create an Alchemy account
 - [ ] Create a Quicknode account (not a priority since it's paid)
+- [x] Create an Blast free account
 - [ ] Get access to a premium Ankr account (again, not a priority but would be nice to have a level playing field since all other providers are paid or require an account)
 - [x] Setup some functions that ping the RPCs on different endpoints and return the results
 - [x] Create a table that compares the results
